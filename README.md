@@ -16,6 +16,10 @@ Here are some ideas to get you started:
 -->
 
 ## 📊 Github Statistics
+<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muqaddaspreet&layout=compact&theme=react&hide_border=false" /></a>
+
+
+<!-- Activity Graph -->
 [![Muqaddaspreet's Github Activity Graph](https://activity-graph.herokuapp.com/graph?username=Muqaddaspreet&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## 🐍 Snake eating my contribution
