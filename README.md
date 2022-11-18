@@ -2,6 +2,8 @@
 
 <!--
 **Muqaddaspreet/Muqaddaspreet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Profile Views -->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Muqaddaspreet" alt="Muqaddaspreet Singh" /> </p>
 
 Here are some ideas to get you started:
 
