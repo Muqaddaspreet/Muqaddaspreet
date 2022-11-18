@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Snake eating my contribution
+## 🐍 Snake eating my contribution
 ![snake gif](https://github.com/Muqaddaspreet/Muqaddaspreet/blob/output/github-contribution-grid-snake.gif)
