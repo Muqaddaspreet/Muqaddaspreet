@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 
 
 <!-- Activity Graph -->
-[![Muqaddaspreet's Github Activity Graph](https://activity-graph.herokuapp.com/graph?username=Muqaddaspreet&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Muqaddaspreet's Github Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Muqaddaspreet&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## 🐍 Snake eating my contribution
 ![snake gif](https://github.com/Muqaddaspreet/Muqaddaspreet/blob/output/github-contribution-grid-snake.gif)
