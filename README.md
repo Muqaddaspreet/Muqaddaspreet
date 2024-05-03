@@ -1,12 +1,16 @@
-### 👋 Hey there! I'm Muqaddaspreet Singh, a passionate software engineer with experience in crafting responsive user-centric designs and developing robust web applications. With a background in Computer Science and a Master's degree in Applied Computer Science from Concordia University, Montreal, I thrive on solving complex problems and creating seamless user experiences.
+<!-- Typing Master Picture --> 
+<img align="right" alt="GIF" src="https://github.com/Shahzaibfardeen/Shahzaibfardeen/blob/main/images/coding-gif.gif" width="500"/>
+<br /> <br />
 
-### 💻 In my professional journey, I've worked at Nagarro Software Private Limited, where I honed my skills in Angular, Node.js, and .NET, contributing to projects that impacted users worldwide. From optimizing web page response times to integrating APIs, I've had the opportunity to work on diverse projects, pushing the boundaries of technology to deliver exceptional results.
+👋 Hey there! I'm Muqaddaspreet Singh, a passionate software engineer with experience in crafting responsive user-centric designs and developing robust web applications. With a background in Computer Science and a Master's degree in Applied Computer Science from Concordia University, Montreal, I thrive on solving complex problems and creating seamless user experiences.
 
-### 🚀 Beyond my professional experience, I love diving into exciting side projects, exploring new technologies, and contributing to open-source initiatives. You'll find some of my projects here, ranging from reimbursement portals to event management systems, showcasing my proficiency in a variety of technologies including Angular, .NET Core, Node.js, and more.
+💻 In my professional journey, I've worked at Nagarro Software Private Limited, where I honed my skills in Angular, Node.js, and .NET, contributing to projects that impacted users worldwide. From optimizing web page response times to integrating APIs, I've had the opportunity to work on diverse projects, pushing the boundaries of technology to deliver exceptional results.
 
-### 🔧 When I'm not coding, you can find me sharpening my French language skills, exploring the latest tech trends, or enjoying a good cup of coffee while brainstorming my next big idea. Passionate about continuous learning and collaboration, I'm always eager to connect with fellow developers and enthusiasts. Let's build something amazing together!
+🚀 Beyond my professional experience, I love diving into exciting side projects, exploring new technologies, and contributing to open-source initiatives. You'll find some of my projects here, ranging from reimbursement portals to event management systems, showcasing my proficiency in a variety of technologies including Angular, .NET Core, Node.js, and more.
 
-### Connect With Me On - 
+🔧 When I'm not coding, you can find me sharpening my French language skills, exploring the latest tech trends, or enjoying a good cup of coffee while brainstorming my next big idea. Passionate about continuous learning and collaboration, I'm always eager to connect with fellow developers and enthusiasts. Let's build something amazing together!
+
+Connect With Me On - 
 <p>
   <a href="https://www.linkedin.com/in/muqaddaspreet-singh/" title="LinkedIN">
 	<img align="left" alt="LinkedIN" height="25px" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" />
