@@ -1,6 +1,5 @@
 <!-- Typing Master Picture --> 
 <img align="right" alt="GIF" src="https://github.com/Shahzaibfardeen/Shahzaibfardeen/blob/main/images/coding-gif.gif" width="500"/>
-<br /> <br />
 
 ### 👋 Hey there! I'm Muqaddaspreet Singh, a passionate software engineer with experience in crafting responsive user-centric designs and developing robust web applications.
 
@@ -8,7 +7,13 @@
 
 ### 🚀 Beyond my professional experience, I love diving into exciting side projects, exploring new technologies, and contributing to open-source initiatives. 
 
-### 🔧 When I'm not coding, you can find me sharpening my French language skills, exploring the latest tech trends, or enjoying continuous learning and collaboration, I'm always eager to connect with fellow developers and enthusiasts. Let's build something amazing together!
+<br />
+
+### 🔧 When I'm not coding, you can find me sharpening my French language skills, exploring the latest tech trends, or enjoying continuous learning and collaboration.
+
+
+
+### I'm always eager to connect with fellow developers and enthusiasts. Let's build something amazing together!
 
 ### Connect With Me On - 
 <p>
