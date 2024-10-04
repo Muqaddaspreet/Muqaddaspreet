@@ -78,4 +78,4 @@ Here are some ideas to get you started:
 [![Muqaddaspreet's Github Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Muqaddaspreet&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## 🐍 Snake eating my contribution
-![snake gif](https://github.com/Muqaddaspreet/Muqaddaspreet/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/Muqaddaspreet/Muqaddaspreet/blob/output/github-snake.svg)
